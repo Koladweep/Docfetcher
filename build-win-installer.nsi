@@ -48,16 +48,17 @@ AutoCloseWindow true
 ; Follow the list of languages on the wiki:
 ; http://sourceforge.net/apps/mediawiki/docfetcher/index.php?title=How_to_translate_DocFetcher#Translations_that_are_already_finished_or_in_progress
 LoadLanguageFile "${NSISDIR}\Contrib\Language files\English.nlf"
-LoadLanguageFile "${NSISDIR}\Contrib\Language files\Portuguese.nlf"
 LoadLanguageFile "${NSISDIR}\Contrib\Language files\German.nlf"
-LoadLanguageFile "${NSISDIR}\Contrib\Language files\Romanian.nlf"
 LoadLanguageFile "${NSISDIR}\Contrib\Language files\French.nlf"
-LoadLanguageFile "${NSISDIR}\Contrib\Language files\Russian.nlf"
-LoadLanguageFile "${NSISDIR}\Contrib\Language files\Greek.nlf"
-LoadLanguageFile "${NSISDIR}\Contrib\Language files\Japanese.nlf"
-LoadLanguageFile "${NSISDIR}\Contrib\Language files\SimpChinese.nlf"
-LoadLanguageFile "${NSISDIR}\Contrib\Language files\TradChinese.nlf"
+LoadLanguageFile "${NSISDIR}\Contrib\Language files\Portuguese.nlf"
+LoadLanguageFile "${NSISDIR}\Contrib\Language files\Romanian.nlf"
 LoadLanguageFile "${NSISDIR}\Contrib\Language files\Spanish.nlf"
+; These languages require enabling Unicode support:
+; LoadLanguageFile "${NSISDIR}\Contrib\Language files\SimpChinese.nlf"
+; LoadLanguageFile "${NSISDIR}\Contrib\Language files\TradChinese.nlf"
+; LoadLanguageFile "${NSISDIR}\Contrib\Language files\Greek.nlf"
+; LoadLanguageFile "${NSISDIR}\Contrib\Language files\Japanese.nlf"
+; LoadLanguageFile "${NSISDIR}\Contrib\Language files\Russian.nlf"
 
 Function .onInit
 	startinst:
