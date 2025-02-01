@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="squirrel_mascot_body.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/qforce/Desktop/Zeichnung2.png"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <linearGradient
@@ -146,10 +148,10 @@
     <filter
        inkscape:collect="always"
        id="filter3824"
-       x="-0.10810777"
-       width="1.2162155"
-       y="-0.13483199"
-       height="1.269664">
+       x="-0.15529995"
+       width="1.3105999"
+       y="-0.19951668"
+       height="1.3990334">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2.131682"
@@ -158,10 +160,10 @@
     <filter
        inkscape:collect="always"
        id="filter4351"
-       x="-0.097710247"
-       width="1.1954205"
-       y="-0.15680019"
-       height="1.3136004">
+       x="-0.12528888"
+       width="1.2505733"
+       y="-0.20826217"
+       height="1.4165243">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2.9950031"
@@ -170,10 +172,10 @@
     <filter
        inkscape:collect="always"
        id="filter4417"
-       x="-0.25064484"
-       width="1.5012897"
-       y="-0.23022249"
-       height="1.460445">
+       x="-0.28413402"
+       width="1.5682571"
+       y="-0.22178743"
+       height="1.4435749">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.6644933"
@@ -181,7 +183,7 @@
     </filter>
     <radialGradient
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7095516,0,0,8.5769961e-2,139.41337,652.8449)"
+       gradientTransform="matrix(0.72711321,0,0,0.14451524,138.27187,595.3648)"
        r="183.21428"
        fy="817.00281"
        fx="248.21428"
@@ -980,21 +982,29 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="438.86585"
-     inkscape:cy="646.02175"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="418.70823"
+     inkscape:cy="542.95699"
      inkscape:document-units="px"
-     inkscape:current-layer="g3610"
+     inkscape:current-layer="g10775"
      showgrid="false"
-     inkscape:window-width="1268"
-     inkscape:window-height="722"
-     inkscape:window-x="0"
-     inkscape:window-y="24">
+     inkscape:window-width="1892"
+     inkscape:window-height="990"
+     inkscape:window-x="28"
+     inkscape:window-y="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid3165"
        visible="true"
-       enabled="true" />
+       enabled="true"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -1044,12 +1054,13 @@
                inkscape:export-ydpi="45.266281"
                inkscape:export-xdpi="45.266281"
                inkscape:export-filename="/media/Workspace/eclipse_workspace_linux/DocFetcher-0.9.5/dev/DocFetcher - Fast Document Search_files/DocFetcher-Logo.png"
-               y="707.20496"
+               y="686.95697"
                x="185.53424"
-               height="31.428572"
-               width="260"
+               height="52.954529"
+               width="266.43506"
                id="rect3459"
-               style="opacity:1;fill:url(#radialGradient3467);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="opacity:1;fill:url(#radialGradient3467);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.28;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               ry="0" />
             <path
                inkscape:export-ydpi="45.266281"
                inkscape:export-xdpi="45.266281"
@@ -1181,26 +1192,26 @@
                inkscape:export-ydpi="45.266281"
                inkscape:export-xdpi="45.266281"
                inkscape:export-filename="/media/Workspace/eclipse_workspace_linux/DocFetcher-0.9.5/dev/DocFetcher - Fast Document Search_files/DocFetcher-Logo.png"
-               sodipodi:nodetypes="czscccccsc"
+               sodipodi:nodetypes="czsczzzzcsc"
                id="path3652"
-               d="M 298.90849,611.28885 C 305.50325,619.66501 302.53823,634.39217 302.9461,648.45353 C 303.34664,662.26257 298.46075,678.89041 290.21487,676.34095 C 281.02407,673.49933 274.03298,669.00064 260.06441,673.28851 C 243.54022,679.50466 241.62589,705.1355 252.58711,717.56078 C 258.80463,725.238 282.62606,725.66482 292.96339,725.91281 C 309.14025,725.24917 325.31713,724.58553 341.49399,723.9219 C 347.14818,723.68993 366.6193,704.20072 367.68214,699.06263 C 369.34107,691.29797 361.47504,659.37319 348.67535,646.19619 C 335.95197,633.09774 336.30467,631.04702 324.19653,625.33046"
+               d="m 298.90849,611.28885 c 6.59476,8.37616 3.62974,23.10332 4.03761,37.16468 0.40054,13.80904 -4.48535,30.43688 -12.73123,27.88742 -9.1908,-2.84162 -16.18189,-7.34031 -30.15046,-3.05244 -16.52419,6.21615 -14.28001,37.37954 -5.19104,45.8209 9.08897,8.44136 19.55614,8.30853 28.83003,8.99852 9.27389,0.68999 20.32275,-0.40902 30.80628,-2.39038 10.48353,-1.98136 16.85386,-3.85373 26.62095,-7.90321 9.76708,-4.04947 11.61507,-14.55608 11.70317,-24.90573 0.1874,-14.87538 8.64124,-33.53539 -4.15845,-46.71239 -12.72338,-13.09845 -12.37068,-15.14917 -24.47882,-20.86573"
                style="fill:url(#linearGradient3831);fill-opacity:1;fill-rule:evenodd;stroke:#8d8d8d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <path
                inkscape:export-ydpi="45.266281"
                inkscape:export-xdpi="45.266281"
                inkscape:export-filename="/media/Workspace/eclipse_workspace_linux/DocFetcher-0.9.5/dev/DocFetcher - Fast Document Search_files/DocFetcher-Logo.png"
-               style="fill:url(#radialGradient3833);fill-opacity:1;fill-rule:evenodd;stroke:#8d8d8d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="M 298.90849,611.28885 C 305.50325,619.66501 302.53823,634.39217 302.9461,648.45353 C 303.34664,662.26257 298.46075,678.89041 290.21487,676.34095 C 281.02407,673.49933 274.03298,669.00064 260.06441,673.28851 C 243.54022,679.50466 241.62589,705.1355 252.58711,717.56078 C 258.80463,725.238 282.62606,725.66482 292.96339,725.91281 C 309.14025,725.24917 325.31713,724.58553 341.49399,723.9219 C 347.14818,723.68993 366.6193,704.20072 367.68214,699.06263 C 369.34107,691.29797 361.47504,659.37319 348.67535,646.19619 C 335.95197,633.09774 336.30467,631.04702 324.19653,625.33046"
+               style="fill:url(#radialGradient3833);fill-opacity:1;fill-rule:evenodd;stroke:#8d8d8d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+               d="m 298.90849,611.28885 c 6.59476,8.37616 3.62974,23.10332 4.03761,37.16468 0.40054,13.80904 -4.53921,30.9676 -12.78509,28.41814 -9.1908,-2.84162 -15.59138,-7.28569 -29.44021,-3.34935 -14.53955,6.12465 -12.9796,22.46005 -8.13369,44.03846 6.21752,7.67722 30.03895,8.10404 40.37628,8.35203 24.94209,-1.49574 34.1919,5.19051 44.46038,7.55339"
                id="path3654"
-               sodipodi:nodetypes="czscccccsc" />
+               sodipodi:nodetypes="czscccc" />
             <path
                inkscape:export-ydpi="45.266281"
                inkscape:export-xdpi="45.266281"
                inkscape:export-filename="/media/Workspace/eclipse_workspace_linux/DocFetcher-0.9.5/dev/DocFetcher - Fast Document Search_files/DocFetcher-Logo.png"
                style="fill:url(#linearGradient3835);fill-opacity:1;fill-rule:evenodd;stroke:#8d8d8d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="M 410.68692,629.2996 C 407.44112,631.88892 407.9364,641.75773 403.37911,655.38495 C 398.82183,669.01217 403.77124,681.79755 411.99435,679.17558 C 421.15977,676.25314 428.11098,671.69305 442.11676,675.85776 C 458.69505,681.92816 460.83501,707.54115 449.98362,720.06247 C 443.83395,727.79415 420.0172,728.43071 409.68246,728.76972 C 393.50038,728.24855 377.31828,727.72739 361.13621,727.20624 C 355.48019,727.02407 348.42578,717.59661 347.31773,712.46807 C 343.86326,696.96859 348.99677,682.52439 349.50316,666.80047 C 348.3342,647.32901 339.94348,636.38102 357.9985,628.5038"
+               d="m 410.68692,629.2996 c -3.2458,2.58932 -2.75052,12.45813 -7.30781,26.08535 -4.55728,13.62722 0.39213,26.4126 8.61524,23.79063 9.16542,-2.92244 16.11663,-7.48253 30.12241,-3.31782 16.57829,6.0704 18.71825,31.68339 7.86686,44.20471 -6.14967,7.73168 -24.6729,10.83226 -44.45284,10.13456 -19.77994,-0.6977 -37.48755,-6.15179 -45.26371,-9.6834 -7.77617,-3.5316 -11.26988,-12.78832 -11.05794,-21.93079 0.21194,-9.14246 1.74935,-22.18621 1.29772,-34.15144 -0.45164,-11.96522 1.37627,-25.77754 7.49169,-35.9276"
                id="path3656"
-               sodipodi:nodetypes="czsccccccc" />
+               sodipodi:nodetypes="czscczzzzc" />
             <path
                inkscape:export-ydpi="45.266281"
                inkscape:export-xdpi="45.266281"
@@ -1214,17 +1225,14 @@
                inkscape:export-xdpi="45.266281"
                inkscape:export-filename="/media/Workspace/eclipse_workspace_linux/DocFetcher-0.9.5/dev/DocFetcher - Fast Document Search_files/DocFetcher-Logo.png"
                style="fill:url(#radialGradient3837);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="M 410.68692,629.2996 C 407.44112,631.88892 407.9364,641.75773 403.37911,655.38495 C 398.82183,669.01217 403.77124,681.79755 411.99435,679.17558 C 421.15977,676.25314 428.11098,671.69305 442.11676,675.85776 C 458.69505,681.92816 460.83501,707.54115 449.98362,720.06247 C 443.83395,727.79415 420.0172,728.43071 409.68246,728.76972 C 393.50038,728.24855 377.31828,727.72739 361.13621,727.20624 C 355.48019,727.02407 348.42578,717.59661 347.31773,712.46807 C 343.86326,696.96859 348.99677,682.52439 349.50316,666.80047 C 348.3342,647.32901 339.94348,636.38102 357.9985,628.5038"
+               d="m 410.68692,629.2996 c -3.2458,2.58932 -1.78379,13.28957 -7.30781,26.08535 -5.52402,12.79578 0.11164,26.42705 7.5172,24.19643 9.21128,-2.77452 17.21467,-7.88833 31.22045,-3.72362 79.25675,88.07623 -187.66998,14.09844 -84.11826,-47.35396"
                id="path3660"
-               sodipodi:nodetypes="czsccccccc" />
+               sodipodi:nodetypes="czscc" />
             <path
-               inkscape:export-ydpi="45.266281"
-               inkscape:export-xdpi="45.266281"
-               inkscape:export-filename="/media/Workspace/eclipse_workspace_linux/DocFetcher-0.9.5/dev/DocFetcher - Fast Document Search_files/DocFetcher-Logo.png"
-               sodipodi:nodetypes="czsccccccc"
+               style="fill:url(#radialGradient3839);fill-opacity:1;fill-rule:evenodd;stroke:#8d8d8d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+               d="m 410.68692,629.2996 c -3.2458,2.58932 -2.75052,12.45813 -7.30781,26.08535 -4.55728,13.62722 0.0138,27.11769 8.23696,24.49572 9.16542,-2.92244 16.08599,-7.77572 30.09177,-3.61101 16.57829,6.0704 18.22501,30.59008 8.27578,43.79281 -6.14967,7.73168 -33.72875,8.61006 -37.03696,8.64788"
                id="path3662"
-               d="M 410.68692,629.2996 C 407.44112,631.88892 407.9364,641.75773 403.37911,655.38495 C 398.82183,669.01217 403.77124,681.79755 411.99435,679.17558 C 421.15977,676.25314 428.11098,671.69305 442.11676,675.85776 C 458.69505,681.92816 460.83501,707.54115 449.98362,720.06247 C 443.83395,727.79415 420.0172,728.43071 409.68246,728.76972 C 393.50038,728.24855 377.31828,727.72739 361.13621,727.20624 C 355.48019,727.02407 348.42578,717.59661 347.31773,712.46807 C 343.86326,696.96859 348.99677,682.52439 349.50316,666.80047 C 348.3342,647.32901 339.94348,636.38102 357.9985,628.5038"
-               style="fill:url(#radialGradient3839);fill-opacity:1;fill-rule:evenodd;stroke:#8d8d8d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               sodipodi:nodetypes="cssccc" />
             <path
                inkscape:export-ydpi="45.266281"
                inkscape:export-xdpi="45.266281"
@@ -1658,6 +1666,16 @@
                d="M 313.08511,625.1769 C 319.92143,632.55997 335.54985,626.93696 343.536,638.54744 C 356.78204,627.84776 369.55688,640.83729 380.66704,628.49552 C 394.27154,613.38291 300.19771,611.25878 313.08511,625.1769 z"
                id="path3819"
                sodipodi:nodetypes="ccss" />
+            <path
+               style="fill:none;stroke:#8d8d8d;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+               d="m 401.12679,684.74815 c 1.90707,-1.32445 4.17606,-2.48033 5.78501,-3.28248 1.60894,-0.80214 3.71113,-1.74113 5.77632,-2.50576"
+               id="path3667"
+               sodipodi:nodetypes="czc" />
+            <path
+               style="fill:none;stroke:#8d8d8d;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+               d="m 300.84184,681.85271 c -1.90707,-1.32445 -4.17606,-2.48033 -5.78501,-3.28248 -1.60894,-0.80214 -3.71113,-1.74113 -5.77632,-2.50576"
+               id="path8394"
+               sodipodi:nodetypes="czc" />
           </g>
         </g>
       </g>
