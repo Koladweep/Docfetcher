@@ -1,0 +1,6 @@
+# System constants
+
+ProgramName = DocFetcher
+ProgramVersion = 1.1.25
+BuildDate = 20250315-1743
+IsPortable = false

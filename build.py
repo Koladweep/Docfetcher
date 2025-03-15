@@ -11,7 +11,7 @@ import os, os.path as osp, platform, shutil, sys
 is_windows = "windows" in platform.system().lower()
 classpath_sep = ";" if is_windows else ":"
 
-os.chdir(osp.dirname(sys.argv[0]))
+os.chdir(osp.dirname(osp.abspath(__file__)))
 if osp.isfile("build"):
 	print("Can't create build directory, a file with that name already exists.")
 	exit(1)
@@ -44,10 +44,14 @@ def flatten_args(*args):
 
 # ([string] | *string) -> int
 def call(*args):
-	import subprocess as sub
-	p = sub.Popen(flatten_args(*args))
-	p.communicate()
-	return p.wait()
+    import subprocess as sub
+    p = sub.Popen(flatten_args(*args), stdout=sub.PIPE, stderr=sub.PIPE)
+    stdout, stderr = p.communicate()
+    if p.returncode != 0:
+        print(f"Command failed with return code {p.returncode}")
+        print("stdout:", stdout.decode())
+        print("stderr:", stderr.decode())
+    return p.returncode
 
 # Recursively collect library jars
 jars = []
